@@ -28,7 +28,6 @@ $posts = $wpdb->get_results("SELECT ID, post_title, comment_count FROM $wpdb->po
 if ($arg == '')
 	echo '<li>';
 ?>
-<li>
 <h2><?php echo $options['title']; ?></h2>
 <ul>
 <?php
