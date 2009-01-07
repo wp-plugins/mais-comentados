@@ -39,4 +39,4 @@ Duvidas/Reclamações/Sugestões:
 
 == Screenshots ==
 
-<img src="http://www.tonacola.com.br/wp-content/uploads/2009/01/maiscomentados.jpg" width="293" height="228" />
+1. Painel de Configuração do Plugin. :D
