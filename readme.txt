@@ -1,6 +1,5 @@
 ﻿=== Posts Mais Comentados ===
 Contributors: Ronis Nascimento
-Author: Ronis Nascimento
 Donate link: http://www.tonacola.com.br
 Tags: widget, mais populares, comentarios, sidebar, comment, most popular
 Requires at least: 2.0
@@ -27,7 +26,7 @@ Utilizar como qualquer um widget com o procedimento de instalação padrão, ou 
 1. Enviar o arquivo maiscomentados.php para o diretório de plugins do wordpress.
 2. Ativar o plugin.
 3. Navegue para o Painel de Configuração e personalize o widget.
-4. Se você quiser simplesmente mostrar os dados como uma lista em um post, use <?php mais_comentados(1);?> em seu template.
+4. Se você quiser simplesmente mostrar os dados como uma lista em um post, use &lt;?php mais_comentados(1);?&gt; em seu template.
 
 == Frequently Asked Questions ==
 
@@ -35,7 +34,9 @@ Utilizar como qualquer um widget com o procedimento de instalação padrão, ou 
 
 Sim. Dê uma olhada nas opções do painel de configuração do widget.
 
-== Screenshots ==
-
 Duvidas/Reclamações/Sugestões:
 <a href="http://www.tonacola.com.br/wordpress-widget-mais-comentados/">www.tonacola.com.br</a>
+
+== Screenshots ==
+
+<img src="http://www.tonacola.com.br/wp-content/uploads/2009/01/maiscomentados.jpg" width="293" height="228" />
