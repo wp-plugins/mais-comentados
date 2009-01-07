@@ -17,7 +17,10 @@ pagina do plugin</a>.
 
 == Uso ==
 
-Utilizar como qualquer um widget com o procedimento de instalação padrão, ou utilizar a própria função em um post, adicionando <?php mais_comentados(1);?> no template. O argumento 1 garante que a lista é auto-contida ao invez de parte da sidebar.
+Utilizar como qualquer um widget com o procedimento de instalação padrão, ou utilizar a própria função em um post, adicionando &lt;?php mais_comentados(1);?&gt; no template. O argumento 1 garante que a lista é auto-contida ao invez de parte da sidebar.
+
+Duvidas/Reclamações/Sugestões:
+<a href="http://www.tonacola.com.br/wordpress-widget-mais-comentados/">www.tonacola.com.br</a>
 
 == Installation ==
 
