@@ -1,11 +1,11 @@
 ﻿<?php
 /*
-Plugin Name: Mais Comentados
-Plugin URI: http://www.tonacola.com.br/wordpress-widget-mais-comentados/
+Plugin Name: Posts Mais Comentados
+Plugin URI: http://www.eitcha.com/wordpress-widget-mais-comentados/
 Description: Exibe o Link das publicações que têm mais comentários.
 Author: Ronis Nascimento
-Version: 1.0
-Author URI: http://www.tonacola.com.br
+Version: 1.1
+Author URI: http://www.eitcha.com
 */
 
 add_action("plugins_loaded", "init_comentados");
@@ -26,8 +26,9 @@ $posts = $wpdb->get_results("SELECT ID, post_title, comment_count FROM $wpdb->po
 
 //determinar se utilizada como uma barra lateral ou função
 if ($arg == '')
-	echo '<li>';
+	echo '';
 ?>
+<li>
 <h2><?php echo $options['title']; ?></h2>
 <ul>
 <?php
@@ -41,9 +42,10 @@ foreach ($posts as $links) {
 ?>
 
 </ul>
+</li>
 <?php
 if ($arg == '')
-	echo '</li>';
+	echo '';
 ?>
 
 <?php
@@ -79,18 +81,18 @@ if ($_POST['maiscomentados-Enviar'])
 //cria painel de configuração do widget
 ?>
 	<p>
-    <label for="maiscomentados-titulo">Titulo: </label>
+    <label for="maiscomentados-titulo">Titulo:</label>
     <input type="text" id="maiscomentados-titulo" name="maiscomentados-titulo" value="<?php echo $options['title'];?>" />
   </p>
 
 	<p>
-    <label for="maiscomentados-numero">Número de publicações a ser exibido: </label>
+    <label for="maiscomentados-numero">Número de publicações a ser exibido:</label>
     <input type="text" id="maiscomentados-numero" name="maiscomentados-numero" value="<?php echo $options['number'];?>" size="5" />
   </p>
 
 <p>
-	 <input type="checkbox" id="maiscomentados-comentario" name="maiscomentados-comentario" value="checked" <?php echo $options['comment'];?> />
-    <label for="maiscomentados-comentario"> Exibir número de comentários </label>
+	 <input type="checkbox" id="maiscomentados-comentario" name="maiscomentados-comentario" value="<?php echo $options['comment'];?>"/>
+    <label for="maiscomentados-comentario">Exibir número de comentários</label>
 
 	<input type="hidden" id="maiscomentados-Enviar" name="maiscomentados-Enviar" value="1" />
   </p>
