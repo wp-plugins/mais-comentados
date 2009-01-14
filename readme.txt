@@ -4,7 +4,7 @@ Donate link: http://www.eitcha.com
 Tags: widget, mais populares, comentarios, sidebar, comment, most popular
 Requires at least: 2.0
 Tested up to: 2.7
-Stable tag: 1.1
+Stable tag: 1.2
 
 Este é um widget muito simples, ele exibe um link para as postagens que tem mais comentários em seu blog.
 
@@ -20,7 +20,7 @@ pagina do plugin</a>.
 Utilizar como qualquer um widget com o procedimento de instalação padrão, ou utilizar a própria função em um post, adicionando &lt;?php mais_comentados(1);?&gt; no template. O argumento 1 garante que a lista é auto-contida ao invez de parte da sidebar.
 
 Duvidas/Reclamações/Sugestões:
-<a href="http://www.eitcha.com/wordpress-widget-mais-comentados/">www.eitcha.com</a>
+<a href="http://www.eitcha.com/contato/">www.eitcha.com/contato</a>
 
 == Installation ==
 
@@ -42,4 +42,4 @@ Duvidas/Reclamações/Sugestões:
 Sim. Dê uma olhada nas opções do painel de configuração do widget.
 
 Duvidas/Reclamações/Sugestões:
-<a href="http://www.eitcha.com/wordpress-widget-mais-comentados/">www.eitcha.com</a>
+<a href="http://www.eitcha.com/contato/">www.eitcha.com/contato</a>
