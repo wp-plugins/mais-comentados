@@ -1,9 +1,9 @@
 ﻿<?php
 /*
 Plugin Name: Posts Mais Comentados
-Plugin URI: http://www.tonacola.com.br/wordpress-widget-mais-comentados/
+Plugin URI: http://www.eitcha.com/wordpress-widget-mais-comentados/
 Description: Exibe o Link das publicações que têm mais comentários.
-Author: Ronis Nascimento
+Author: W. Ronis Nascimento
 Version: 1.2
 Author URI: http://www.eitcha.com
 */
