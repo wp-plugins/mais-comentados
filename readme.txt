@@ -1,10 +1,10 @@
 ﻿=== Posts Mais Comentados ===
-Contributors: Ronis Nascimento
-Donate link: http://www.eitcha.com
+Contributors: W. Ronis Nascimento
+Donate link: http://www.eitcha.com/contato
 Tags: widget, mais populares, comentarios, sidebar, comment, most popular
 Requires at least: 2.0
 Tested up to: 2.7
-Stable tag: 1.2
+Stable tag: 1.3
 
 Este é um widget muito simples, ele exibe um link para as postagens que tem mais comentários em seu blog.
 
@@ -12,7 +12,7 @@ Este é um widget muito simples, ele exibe um link para as postagens que tem mai
 
 Este widget é uma base para a sua sidebar, que cria uma lista de links para o início postagens no blog de acordo com o número de comentários sobre a postagem. Você pode personalizar o título do widget, o número de links para mostrar e mesmo que vocé não deseja exibir o contador de comentário.
 
-Para obter uma lista completa das mudanças de cada versão, visite <a href="http://www.tonacola.com.br/wordpress-widget-mais-comentados/">a 
+Para obter uma lista completa das mudanças de cada versão, visite <a href="http://www.eitcha.com/wordpress-widget-mais-comentados/">a 
 pagina do plugin</a>.
 
 == Uso ==
@@ -32,8 +32,7 @@ Duvidas/Reclamações/Sugestões:
 == Screenshots ==
 
 1. Painel de Configuração do Plugin. :D
-2. Exemplo de uso do plugin em <a href="http://www.tonacola.com.br" target="_blank">um dos meus blogs</a>.
-1. Exemplo de uso do plugin no <a href="http://www.trocistas.com" target="_blank">blog trocistas</a>.
+2. Exemplo de uso do plugin no <a href="http://www.trocistas.com" target="_blank">blog trocistas</a>.
 
 == Frequently Asked Questions ==
 
