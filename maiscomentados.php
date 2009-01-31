@@ -4,7 +4,7 @@ Plugin Name: Posts Mais Comentados
 Plugin URI: http://www.eitcha.com/wordpress-widget-mais-comentados/
 Description: Exibe o Link das publicações que têm mais comentários.
 Author: W. Ronis Nascimento
-Version: 1.2
+Version: 1.3
 Author URI: http://www.eitcha.com
 */
 
