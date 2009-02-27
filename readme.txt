@@ -1,9 +1,9 @@
 ﻿=== Posts Mais Comentados ===
 Contributors: W. Ronis Nascimento
-Donate link: http://www.eitcha.com/contato
+Donate link: http://www.dabliuerre.com/contact/
 Tags: widget, mais populares, comentarios, sidebar, comment, most popular
 Requires at least: 2.0
-Tested up to: 2.7
+Tested up to: 2.7.1
 Stable tag: 1.3
 
 Este é um widget muito simples, ele exibe um link para as postagens que tem mais comentários em seu blog.
@@ -12,15 +12,15 @@ Este é um widget muito simples, ele exibe um link para as postagens que tem mai
 
 Este widget é uma base para a sua sidebar, que cria uma lista de links para o início postagens no blog de acordo com o número de comentários sobre a postagem. Você pode personalizar o título do widget, o número de links para mostrar e mesmo que vocé não deseja exibir o contador de comentário.
 
-Para obter uma lista completa das mudanças de cada versão, visite <a href="http://www.eitcha.com/wordpress-widget-mais-comentados/">a 
+Para obter uma lista completa das mudanças de cada versão, visite <a href="http://www.dabliuerre.com/wordpress-plugin/mais-comentados/">a 
 pagina do plugin</a>.
 
 == Uso ==
 
 Utilizar como qualquer um widget com o procedimento de instalação padrão, ou utilizar a própria função em um post, adicionando &lt;?php mais_comentados(1);?&gt; no template. O argumento 1 garante que a lista é auto-contida ao invez de parte da sidebar.
 
-Duvidas/Reclamações/Sugestões:
-<a href="http://www.eitcha.com/contato/">www.eitcha.com/contato</a>
+Duvidas:
+<a href="http://www.twitter.com/dabliuerre/">www.twitter.com/dabliuerre</a>
 
 == Installation ==
 
@@ -41,4 +41,4 @@ Duvidas/Reclamações/Sugestões:
 Sim. Dê uma olhada nas opções do painel de configuração do widget.
 
 Duvidas/Reclamações/Sugestões:
-<a href="http://www.eitcha.com/contato/">www.eitcha.com/contato</a>
+<a href="http://www.dabliuerre.com/contact/">www.dabliuerre.com/contact</a>
