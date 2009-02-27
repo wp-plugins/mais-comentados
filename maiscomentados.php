@@ -1,11 +1,11 @@
 ﻿<?php
 /*
 Plugin Name: Posts Mais Comentados
-Plugin URI: http://www.eitcha.com/wordpress-widget-mais-comentados/
+Plugin URI: http://www.dabliuerre.com/wordpress-plugin/mais-comentados/
 Description: Exibe o Link das publicações que têm mais comentários.
 Author: W. Ronis Nascimento
 Version: 1.3
-Author URI: http://www.eitcha.com
+Author URI: http://www.dabliuerre.com
 */
 
 add_action("plugins_loaded", "init_comentados");
