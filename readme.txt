@@ -12,7 +12,7 @@ Este é um widget muito simples, ele exibe um link para as postagens que tem mai
 
 Este widget é uma base para a sua sidebar, que cria uma lista de links para o início postagens no blog de acordo com o número de comentários sobre a postagem. Você pode personalizar o título do widget, o número de links para mostrar e mesmo que vocé não deseja exibir o contador de comentário.
 
-Para obter uma lista completa das mudanças de cada versão, visite <a href="http://www.dabliuerre.com/wordpress-plugin/mais-comentados/">a 
+Para obter uma lista completa das mudanças de cada versão, visite <a href="http://www.dabliuerre.com/wordpress-plugins/mais-comentados/">a 
 pagina do plugin</a>.
 
 == Uso ==
