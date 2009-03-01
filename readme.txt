@@ -4,7 +4,7 @@ Donate link: http://www.eitcha.com
 Tags: widget, mais populares, comentarios, sidebar, comment, most popular
 Requires at least: 2.0
 Tested up to: 2.7
-Stable tag: 1.1
+Stable tag: 1.0
 
 Este é um widget muito simples, ele exibe um link para as postagens que tem mais comentários em seu blog.
 
