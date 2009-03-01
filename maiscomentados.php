@@ -1,7 +1,7 @@
 ﻿<?php
 /*
 Plugin Name: Posts Mais Comentados
-Plugin URI: http://www.dabliuerre.com/wordpress-plugin/mais-comentados/
+Plugin URI: http://www.dabliuerre.com/wordpress-plugins/mais-comentados/
 Description: Exibe o Link das publicações que têm mais comentários.
 Author: W. Ronis Nascimento
 Version: 1.3
