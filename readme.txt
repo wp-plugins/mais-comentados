@@ -1,6 +1,6 @@
 ﻿=== Posts Mais Comentados ===
-Contributors: W. Ronis Nascimento
-Donate link: http://www.dabliuerre.com/contact/
+Contributors: Waldir Ronis (Zeiro)
+Donate link: http://www.eitcha.com/contato/
 Tags: widget, mais populares, comentarios, sidebar, comment, most popular
 Requires at least: 2.0
 Tested up to: 2.7.1
@@ -12,7 +12,7 @@ Este é um widget muito simples, ele exibe um link para as postagens que tem mai
 
 Este widget é uma base para a sua sidebar, que cria uma lista de links para o início postagens no blog de acordo com o número de comentários sobre a postagem. Você pode personalizar o título do widget, o número de links para mostrar e mesmo que vocé não deseja exibir o contador de comentário.
 
-Para obter uma lista completa das mudanças de cada versão, visite <a href="http://www.dabliuerre.com/wordpress-plugins/mais-comentados/">a 
+Para obter uma lista completa das mudanças de cada versão, visite <a href="http://www.supersincero.com/2009/03/wordpress-plugin-mais-comentados.html">a 
 pagina do plugin</a>.
 
 == Uso ==
@@ -41,4 +41,4 @@ Duvidas:
 Sim. Dê uma olhada nas opções do painel de configuração do widget.
 
 Duvidas/Reclamações/Sugestões:
-<a href="http://www.dabliuerre.com/contact/">www.dabliuerre.com/contact</a>
+<a href="http://www.twitter.com/dabliuerre/">www.twitter.com/dabliuerre</a>
