@@ -1,11 +1,11 @@
 ﻿<?php
 /*
 Plugin Name: Posts Mais Comentados
-Plugin URI: http://www.dabliuerre.com/wordpress-plugins/mais-comentados/
+Plugin URI: http://www.supersincero.com/2009/03/wordpress-plugin-mais-comentados.html
 Description: Exibe o Link das publicações que têm mais comentários.
-Author: W. Ronis Nascimento
+Author: Waldir Ronis (Zeiro)
 Version: 1.3
-Author URI: http://www.dabliuerre.com
+Author URI: http://www.supersincero.com
 */
 
 add_action("plugins_loaded", "init_comentados");
