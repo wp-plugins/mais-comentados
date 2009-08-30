@@ -1,11 +1,11 @@
 ﻿<?php
 /*
-Plugin Name: Posts Mais Comentados
-Plugin URI: http://www.supersincero.com/2009/03/wordpress-plugin-mais-comentados.html
+Plugin Name: Mais Comentados
+Plugin URI: http://cybernerd.info/wp-plugins/mais-comentados/
 Description: Exibe o Link das publicações que têm mais comentários.
-Author: Waldir Ronis (Zeiro)
-Version: 1.3
-Author URI: http://www.supersincero.com
+Author: Ronis Nascimento
+Version: 1.4
+Author URI: http://cybernerd.info
 */
 
 add_action("plugins_loaded", "init_comentados");
@@ -56,9 +56,7 @@ function init_comentados(){
 }
 
 function maiscomentados_controle() {
-	//carregar traduções
-load_plugin_textdomain('maiscomentados', "wp-content/plugins/mais-comentados/");
-	//update_option("widget_maiscomentados-numero", "5");
+	update_option("widget_maiscomentados-numero", "5");
 	$options = get_option("widget_maiscomentados");
 
 //se deixar opção em branco, inserir dados predefinidos.
@@ -92,7 +90,7 @@ if ($_POST['maiscomentados-Enviar'])
 
 <p>
 	 <input type="checkbox" id="maiscomentados-comentario" name="maiscomentados-comentario" value="checked" <?php echo $options['comment'];?> />
-    <label for="maiscomentados-comentario"> Exibir número de comentários </label>
+    <label for="maiscomentados-comentario"> Exibir número de comentários.</label>
 
 	<input type="hidden" id="maiscomentados-Enviar" name="maiscomentados-Enviar" value="1" />
   </p>
