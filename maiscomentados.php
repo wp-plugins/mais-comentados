@@ -1,11 +1,11 @@
 ﻿<?php
 /*
 Plugin Name: Mais Comentados
-Plugin URI: http://cybernerd.info/wp-plugins/mais-comentados/
+Plugin URI: http://reitor.org/wp-plugins/mais-comentados/
 Description: Exibe o Link das publicações que têm mais comentários.
 Author: Ronis Nascimento
 Version: 1.4
-Author URI: http://cybernerd.info
+Author URI: http://reitor.org
 */
 
 add_action("plugins_loaded", "init_comentados");

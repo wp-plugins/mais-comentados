@@ -1,6 +1,6 @@
 ﻿=== Mais Comentados ===
-Contributors: Ronis Nascimento
-Donate link: http://cybernerd.info
+Contributors: Reitor
+Donate link: http://reitor.org
 Tags: widget, mais populares, comentarios, sidebar, comment, most popular
 Requires at least: 2.0
 Tested up to: 2.8.4
@@ -12,15 +12,15 @@ Este é um widget muito simples, ele exibe um link para as postagens que tem mai
 
 Este widget é uma base para a sua sidebar, que cria uma lista de links para o início postagens no blog de acordo com o número de comentários sobre a postagem. Você pode personalizar o título do widget, o número de links para mostrar e mesmo que vocé não deseja exibir o contador de comentário.
 
-Para obter uma lista completa das mudanças de cada versão, visite <a href="http://cybernerd.info/wp-plugins/mais-comentados/">a 
-pagina do plugin</a>.
+Para obter uma lista completa das mudanças de cada versão, visite [a 
+página do plugin](http://reitor.org/wp-plugins/mais-comentados/).
 
-== Uso ==
+== Use ==
 
-Utilizar como qualquer um widget com o procedimento de instalação padrão, ou utilizar a própria função em um post, adicionando &lt;?php mais_comentados(1);?&gt; no template. O argumento 1 garante que a lista é auto-contida ao invez de parte da sidebar.
+Utilizar como qualquer um widget com o procedimento de instalação padrão, ou utilizar a própria função em um post, adicionando <?php mais_comentados(1);> no template. O argumento 1 garante que a lista é auto-contida ao invez de parte da sidebar.
 
 Duvidas:
-<a href="http://www.twitter.com/supersincero/">www.twitter.com/supersincero</a>
+[twitter.com/reitor](http://twitter.com/reitor/)
 
 == Installation ==
 
@@ -36,9 +36,8 @@ Duvidas:
 
 == Frequently Asked Questions ==
 
-É configuravel?
-
+=É configuravel?=
 Sim. Dê uma olhada nas opções do painel de configuração do widget.
 
 Duvidas/Reclamações/Sugestões:
-<a href="http://www.twitter.com/supersincero/">www.twitter.com/supersincero</a>
+[twitter.com/reitor](http://twitter.com/reitor/)
